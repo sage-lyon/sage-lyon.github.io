@@ -1,14 +1,14 @@
 # Sage Lyon
 
 ## Education:
-_University of Massachusetts Lowell_ (Lowell, MA)  
+**_University of Massachusetts Lowell_** (Lowell, MA)  
 Sep. 2018 - Present (Anticipated Graduation: May 2022)  
 Pursuing a Bachelor's Degree in Computer Engineering  
 GPA: 3.821 (Dean's List)  
 
 Relevant coursework includes data structures, microprocessors & embedded systems, software engineering, computer architecture, advanced digital systems design, operating systems, network design, and heterogeneous computing.
 
-##Skills
+## Skills:
 - **Programming and OS:** C++, C, OpenCL, MATLAB,  Assembly, Python, VHDL, Windows, macOS, Linux  
 - **Equipment:**  Analog Discovery 2 Kit, DC Power Supply, Waveform Generator, Digital Multimeter, Oscilloscope, Decade Box, Soldering  
 - **Applications:**  Analog Discovery 2 Kit, DC Power Supply, Waveform Generator, Digital Multimeter, Oscilloscope, Decade Box, Soldering  
