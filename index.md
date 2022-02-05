@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+# Sage Lyon
 
-You can use the [editor on GitHub](https://github.com/sage-lyon/sage-lyon.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Education:
+_University of Massachusetts Lowell_ (Lowell, MA)
+Sep. 2018 - Present (Anticipated Graduation: May 2022)
+Pursuing a Bachelor's Degree in Computer Engineering
+GPA: 3.821 (Dean's List)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Relevant coursework includes data structures, microprocessors & embedded systems, software engineering, computer architecture, advanced digital systems design, operating systems, network design, and heterogeneous computing.
 
 ### Markdown
 
