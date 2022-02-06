@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 # Sage Lyon
 sageclyon@gmail.com  
