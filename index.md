@@ -1,7 +1,7 @@
-## Sage Lyon
+# Sage Lyon
 sageclyon@gmail.com  
 
-### Education
+## Education
 **_University of Massachusetts Lowell_** (Lowell, MA)  
 Sep. 2018 - Present (Anticipated Graduation: May 2022)  
 Pursuing a Bachelor's Degree in Computer Engineering  
@@ -9,13 +9,13 @@ GPA: 3.821 (Dean's List)
 
 Relevant coursework includes data structures, microprocessors & embedded systems, software engineering, computer architecture, advanced digital systems design, operating systems, network design, and heterogeneous computing.
 
-### Skills
+## Skills
 - **Programming and OS:** C++, C, OpenCL, MATLAB,  Assembly, Python, VHDL, Windows, macOS, Linux  
 - **Equipment:**  Analog Discovery 2 Kit, DC Power Supply, Waveform Generator, Digital Multimeter, Oscilloscope, Decade Box, Soldering  
 - **Applications:** Git, Multisim, Waveforms, Visual Studio, Logic Works, Intel Quartus Prime, MPLAB IDE, VirtualBox
  
 
-### Employment History
+## Employment History
 **_Department of Electrical and Computer Engineering at UMass Lowell_** (Lowell, MA)  
 Sep. 2021 - Present | Laboratory Grader
 - Monitored two electronics labs consisting of 20 students each week  
@@ -32,7 +32,7 @@ Dec. 2018 - Mar. 2020 | Student Coordinator
 - Inspected hazardous waste accumulation areas in 75+ university labs per week   
 - Communicated with lab workers to ensure that they were following EPA/DEP safety regulations  
 
-### Academic Projects
+## Academic Projects
 **_Red Hat’s Friendly Fedora Project (Capstone Project)_**  
 - Surveying the UMass Lowell community to build and maintain a Fedora system that is more “friendly” and is better suited for their needs  
 - Establishing an open-source club that will give a space for UMass Lowell students to learn, collaborate on projects, and discuss open-source software  
