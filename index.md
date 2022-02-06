@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # Sage Lyon
 sageclyon@gmail.com  
 
