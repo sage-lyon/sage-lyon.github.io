@@ -1,5 +1,5 @@
 # Sage Lyon
-Email: sageclyon@gmail.com  
+sageclyon@gmail.com  
 
 ## Education
 **_University of Massachusetts Lowell_** (Lowell, MA)  
