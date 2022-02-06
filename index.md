@@ -20,7 +20,7 @@ Sep. 2021 - Present | Laboratory Grader
 - Assisted students with lab materials and the use of lab equipment   
 - Graded 20+ sophomore lab reports each week  
 
-**_E2 Young Engineers:_** Lexington (Lexington, MA)
+**_E2 Young Engineers: Lexington_** (Lexington, MA)
 Oct. 2020 - Aug. 2021 | Instructor
 - Taught 2-3 lessons on basic engineering concepts per week to children in grades pre-k to 6th  
 - Organized daily activities and led assistant instructors during summer camps  
@@ -30,3 +30,16 @@ Dec. 2018 - Mar. 2020 | Student Coordinator
 - Inspected hazardous waste accumulation areas in 75+ university labs per week   
 - Communicated with lab workers to ensure that they were following EPA/DEP safety regulations  
 
+## Academic Projects
+**_Red Hat’s Friendly Fedora Project (Capstone Project)_**  
+- Surveying the UMass Lowell community to build and maintain a Fedora system that is more “friendly” and is better suited for their needs  
+- Establishing an open-source club that will give a space for UMass Lowell students to learn, collaborate on projects, and discuss open-source software  
+
+**_Simple 4-Bit CPU_**  
+- Built a 4-bit CPU using RAM, an ALU, two registers, a 4-bit counter, and a debounced switch as a clock  
+- Designed instruction set with 18 different instructions, including load, store, jump, and several arithmetic/logical operations which could use either immediate values or values stored in RAM  
+
+**_MIPS Assembly Language Simulator_**  
+- Designed two MIPS simulators in C, one simulated a pipelined datapath and one simulated a single-cycle datapath where each instruction was executed sequentially  
+- Programmed simulators to execute 17 different MIPS instructions, which could be inputted via binary files  
+- Created functions to simulate the fetch, decode, execute, memory, and writeback stages  
